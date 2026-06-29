@@ -54,7 +54,7 @@
   --background: #0b0b0b; /* page background */
   --foreground: #e6e6e6; /* main text */
   --card: #131313; /* surfaces */
-  --card-foreground: #e6e6e6;
+  --card-foreground: #e6e6e6; 
   --popover: #151515;
   --popover-foreground: #e6e6e6;
   /* Muted grayscale accents */

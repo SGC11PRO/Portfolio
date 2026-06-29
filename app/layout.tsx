@@ -10,9 +10,9 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Sergio Garcia Cristobal',
+  title: 'Sergio Garcia Cristobal | Portfolio',
   description:
-    'Portfolio of Sergio Garcia Cristobal, a Computer Engineering student at UC3M focused on cybersecurity — penetration testing, secure software development, and network defense.',
+    'Portfolio of Sergio Garcia Cristobal, an incoming Computer Engineering student at UC3M who builds web, mobile, hardware, and cybersecurity projects.',
   generator: 'v0.app',
   icons: {
     icon: [
