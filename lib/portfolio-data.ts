@@ -92,6 +92,7 @@ export const projects = [
     description:
       "A simple command-line interface for managing passwords with encryption using Python.",
     tags: ["Cryptography", "Python", "CLI", "Security"],
+    link: "https://github.com/SGC11PRO/password-manager-cli",
     repo: "https://github.com/SGC11PRO/password-manager-cli",
   },
     {
@@ -99,6 +100,7 @@ export const projects = [
     description:
       "A simple command-line interface for scanning open ports on a network using Python.",
     tags: ["Networking", "Python", "CLI", "Security"],
+    link: "https://github.com/SGC11PRO/port-scanner-cli",
     repo: "https://github.com/SGC11PRO/port-scanner-cli",
   },
 ]
