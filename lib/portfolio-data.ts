@@ -87,6 +87,20 @@ export const projects = [
     link: "https://aiencounters.netlify.app",
     repo: "https://github.com/SGC11PRO/dnd-app",
   },
+    {
+    title: "password-manager-cli",
+    description:
+      "A simple command-line interface for managing passwords with encryption using Python.",
+    tags: ["Cryptography", "Python", "CLI", "Security"],
+    repo: "https://github.com/SGC11PRO/password-manager-cli",
+  },
+    {
+    title: "port-scanner-cli",
+    description:
+      "A simple command-line interface for scanning open ports on a network using Python.",
+    tags: ["Networking", "Python", "CLI", "Security"],
+    repo: "https://github.com/SGC11PRO/port-scanner-cli",
+  },
 ]
 
 export const skillGroups = [
