@@ -37,7 +37,8 @@ export function Projects() {
             </div>
             <p className="mt-3 flex-1 text-sm leading-relaxed text-muted-foreground text-pretty">
               {project.description}
-            </p>
+            </p>            
+
             <ul className="mt-4 flex flex-wrap gap-2">
               {project.tags.map((tag) => (
                 <li key={tag} className="font-mono text-xs text-muted-foreground/80">
