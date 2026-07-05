@@ -139,7 +139,7 @@ export const education = [
     school: "Universidad Carlos III de Madrid (UC3M)",
     detail:
       "Starting in September 2026 after years of self-directed learning in programming, systems, and hardware.",
-    tags: ["Computer Engineering", "Software Development", "Cybersecurity"],
+    tags: ["Computer Engineering", "UC3M", "Cybersecurity"],
   },
   {
     period: "2024 - 2026",
@@ -147,6 +147,6 @@ export const education = [
     school: "Mirasur School",
     detail:
       "Completed both years with a combined average of 9.53 out of 10 and earned an honors distinction in technical drawing.",
-    tags: ["Honors", "Technical Drawing", "Academic Excellence"],
+    tags: ["High School", "Academic Excellence", "Mirasur School"],
   },
 ]
